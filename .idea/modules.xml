@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Maven_Sample/Maven_Sample.iml" filepath="$PROJECT_DIR$/Maven_Sample/Maven_Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.test.practice/com.test.practice.iml" filepath="$PROJECT_DIR$/com.test.practice/com.test.practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/local_repo.iml" filepath="$PROJECT_DIR$/.idea/local_repo.iml" />
+    </modules>
+  </component>
+</project>
